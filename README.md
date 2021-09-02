@@ -1,6 +1,7 @@
 # terminal
 A go library to display multiple lines in the terminal and update them.
 
+For now it only works for windows
 
 ## Example
 This example shows how to use the terminal and progress modules to display 3 progress counters.
